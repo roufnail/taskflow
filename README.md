@@ -1,6 +1,6 @@
 # TaskFlow – Gestionnaire de tâches d'équipe
 
-Application SPA développée avec **React + Vite** dans le cadre du TP évalué en Architecture Front-End (ENSPM, Niveau 3).
+Application SPA développée avec React + Vite dans le cadre du TP évalué en Architecture Front-End ( AHMADOU ROUFAÏ_SEC_IC4).
 
 ## Prérequis
 
