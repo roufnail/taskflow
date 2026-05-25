@@ -51,4 +51,3 @@ src/
 | 5     | React Router DOM + `useParams`           | 4 pts  |
 | Bonus | Hook `useLocalStorage.js`                | +2 pts |
 
-**Total visé : 22/20**
